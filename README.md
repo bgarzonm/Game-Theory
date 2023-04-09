@@ -8,4 +8,4 @@ pip install -r requirements.txt
 
 Additionally, users must also have Julia installed on their system, as some of the scripts use Julia code for certain calculations.
 
-![Screenshot](output.png)
+![Screenshot](Game-Theory/Game-Theory/visualization/output.png)
